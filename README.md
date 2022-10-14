@@ -9,7 +9,7 @@ I'm still exploring the world of Computer Science and am open to any projects to
 - ⚡️ Fun fact: I love to play the piano🎹 and I have a corgi🐾
 
 ## 🚀 Current Languages and Tools
-Swift, Python, C++, Java, HTML, CSS, Mathematica
+Next.js, Swift, Node, Express, Python, C++, Java, HTML, CSS, Mathematica, and more!
 
 ## 📚 My GitHub Stats:
 
