@@ -13,10 +13,9 @@ Next.js, Swift, Node, Express, Python, C++, Java, HTML, CSS, Mathematica, and mo
 
 ## 📚 My GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louisunlimited&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Louis' GitHub stats](https://github-readme-stats.vercel.app/api?username=louisunlimited&show_icons=true&hide=stars&custom_title=Louis'%20github%20stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louisunlimited&layout=compact&hide=css,makefile)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👀 Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
