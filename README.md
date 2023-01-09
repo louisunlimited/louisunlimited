@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Louis
 
-A little about me: I'm currently a sophomore studying Enginnering Undecided (CS aiming) @ University of Illinois at Urbana-Champaign.
+A little about me: I'm currently a sophomore studying Computer Science @ University of Illinois at Urbana-Champaign.
 I'm still exploring the world of Computer Science and am open to any projects to work on it together!
 
 - 💻 I'm currentlly working on small projects by myself
