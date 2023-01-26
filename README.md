@@ -11,6 +11,9 @@ I'm still exploring the world of Computer Science and am open to any projects to
 ## 🚀 Current Languages and Tools
 Next.js, Swift, Node, Express, Python, C++, Java, HTML, CSS, Mathematica, and more!
 
+## ⛳️ Some of my OpenSource Cotributions
+- PrairieLearn: PLFileEditor Settings & Theme Change. [Issue](https://github.com/PrairieLearn/PrairieLearn/issues/6460), [Pull Request](https://github.com/PrairieLearn/PrairieLearn/pull/6476)
+
 ## 📚 My GitHub Stats:
 
 ![Louis' GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=louisunlimited&show_icons=true&hide=stars&custom_title=Louis'%20github%20stats)
