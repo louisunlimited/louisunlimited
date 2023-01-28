@@ -5,7 +5,7 @@ I'm still exploring the world of Computer Science and am open to any projects to
 
 - 💻 I'm currentlly working on small projects by myself
 - 🗓 I'm looking to collaborate on OpenSource Projects/Hackathons/Competitions/...
-- 👨🏻‍💻 I'm currently learning [Swift](https://www.swift.org/about/), [Next.js](https://nextjs.org), and [C++](https://en.wikipedia.org/wiki/C%2B%2B) \[I'm also interested in security...🤫\]
+- 👨🏻‍💻 I'm currently learning [Swift](https://www.swift.org/about/), [Next.js](https://nextjs.org), and [Golang](https://go.dev/) \[I'm also interested in security...🤫\]
 - ⚡️ Fun fact: I love to play the piano🎹 and I have a corgi🐾
 
 ## 🚀 Current Languages and Tools
