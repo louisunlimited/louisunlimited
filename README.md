@@ -9,9 +9,11 @@ I'm still exploring the world of Computer Science and am open to any projects to
 - ⚡️ Fun fact: I love to play the piano🎹 and I have a corgi🐾
 
 ## 🚀 Current Languages and Tools
+
 Next.js, Swift, Node, Express, Python, C++, Java, HTML, CSS, Mathematica, and more!
 
 ## ⛳️ Some of my OpenSource Cotributions
+
 - PrairieLearn: PLFileEditor Settings & Theme Change. [Issue](https://github.com/PrairieLearn/PrairieLearn/issues/6460), [Pull Request](https://github.com/PrairieLearn/PrairieLearn/pull/6476)
 
 ## 📚 My GitHub Stats:
@@ -21,20 +23,7 @@ Next.js, Swift, Node, Express, Python, C++, Java, HTML, CSS, Mathematica, and mo
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=louisunlimited&layout=compact&hide=css,makefile)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👀 Views and Followers
+
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=louisunlimited">
 </a>
-<!--
-**louisunlimited/louisunlimited** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
