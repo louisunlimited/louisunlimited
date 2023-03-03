@@ -3,14 +3,14 @@
 A little about me: I'm currently a sophomore studying Computer Science @ University of Illinois at Urbana-Champaign.
 I'm still exploring the world of Computer Science and am open to any projects to work on it together!
 
-- 💻 I'm currentlly working on small projects by myself
+- 💻 I'm currentlly working on all kinds of projects and freelancing by myself!
 - 🗓 I'm looking to collaborate on OpenSource Projects/Hackathons/Competitions/...
 - 👨🏻‍💻 I'm currently learning [Swift](https://www.swift.org/about/), [Next.js](https://nextjs.org), and [Golang](https://go.dev/) \[I'm also interested in security...🤫\]
 - ⚡️ Fun fact: I love to play the piano🎹 and I have a corgi🐾
 
 ## 🚀 Current Languages and Tools
 
-Next.js, Swift, Node, Express, Python, C++, Java, HTML, CSS, Mathematica, and more!
+Next.js, TypeScript, Swift, Golang, Express, Python, C++, Java, Mathematica, and more!
 
 ## ⛳️ Some of my OpenSource Cotributions
 
@@ -20,7 +20,7 @@ Next.js, Swift, Node, Express, Python, C++, Java, HTML, CSS, Mathematica, and mo
 
 ![Louis' GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=louisunlimited&show_icons=true&hide=stars&custom_title=Louis'%20github%20stats)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=louisunlimited&layout=compact&hide=css,makefile)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=louisunlimited&layout=compact&hide=css,makefile)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## 👀 Views and Followers
 
