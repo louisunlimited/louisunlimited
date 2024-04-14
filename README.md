@@ -16,9 +16,7 @@ Next.js, TypeScript, Swift, Golang, Express, Python, C++, Java, Mathematica, and
 
 - PrairieLearn: PLFileEditor Settings & Theme Change. [Issue](https://github.com/PrairieLearn/PrairieLearn/issues/6460), [Pull Request](https://github.com/PrairieLearn/PrairieLearn/pull/6476)
 
-## 📚 My GitHub Stats:
-
-![Louis' GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=louisunlimited&show_icons=true&hide=stars&custom_title=Louis'%20github%20stats)
+<!-- ![Louis' GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=louisunlimited&show_icons=true&hide=stars&custom_title=Louis'%20github%20stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=louisunlimited&layout=compact&hide=css,makefile)](https://github.com/anuraghazra/github-readme-stats) -->
 
