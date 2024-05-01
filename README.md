@@ -14,8 +14,8 @@ Next.js, TypeScript, Swift, Golang, Express, Python, C++, Java, Mathematica, and
 
 ## ⛳️ Some of my OpenSource Cotributions
 
-- PrairieLearn: PLFileEditor Settings & Theme Change. [Issue](https://github.com/PrairieLearn/PrairieLearn/issues/6460), [Pull Request](https://github.com/PrairieLearn/PrairieLearn/pull/6476)
-- Apple/swift-org-website: CEW and PSG addition. [Issue](https://github.com/apple/swift-org-website/issues/638), [Pull Request](https://github.com/apple/swift-org-website/pull/642)
+- **PrairieLearn**: PLFileEditor Settings & Theme Change. [Issue](https://github.com/PrairieLearn/PrairieLearn/issues/6460), [Pull Request](https://github.com/PrairieLearn/PrairieLearn/pull/6476)
+- **Apple**/swift-org-website: CEW and PSG addition. [Issue](https://github.com/apple/swift-org-website/issues/638), [Pull Request](https://github.com/apple/swift-org-website/pull/642)
 
 
 <!-- ![Louis' GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=louisunlimited&show_icons=true&hide=stars&custom_title=Louis'%20github%20stats) -->
