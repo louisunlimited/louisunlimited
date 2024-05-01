@@ -22,6 +22,12 @@ Next.js, TypeScript, Swift, Golang, Express, Python, C++, Java, Mathematica, and
 
 <!-- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=louisunlimited&layout=compact&hide=css,makefile)](https://github.com/anuraghazra/github-readme-stats) -->
 
+## ⌘ If you are a fellow developer
+
+```bash
+npx louisunlimited  # < see my card here!!!
+```
+
 ## 👀 Views and Followers
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
