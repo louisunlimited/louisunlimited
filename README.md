@@ -7,6 +7,7 @@ I'm still exploring the world of Computer Science and am open to any projects to
 - 🗓 I'm looking to collaborate on OpenSource Projects/Hackathons/Competitions/...
 - 👨🏻‍💻 I'm currently learning [Swift](https://www.swift.org/about/), [Svelte](https://svelte.dev/), [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html)(sooo intersting!),  [Next.js](https://nextjs.org), and [Golang](https://go.dev/) \[I'm also interested in security...🤫\]
 - ⚡️ Fun fact: I love to play the piano🎹 and I have a corgi🐾
+- 🌲 I made https://www.animenzpiano.com/ for [Animenz](https://www.youtube.com/@Animenzzz)!
 
 ## 🚀 Current Languages and Tools
 
