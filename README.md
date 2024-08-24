@@ -1,16 +1,16 @@
 ## Hi there 👋 I'm Louis
 
-A little about me: I'm currently a junior studying Computer Science @ University of Illinois at Urbana-Champaign.
+A little about me: I'm currently a senior studying Computer Science @ University of Illinois at Urbana-Champaign.
 I'm still exploring the world of Computer Science and am open to any projects to work on it together!
 
 - 💻 I'm currentlly working on all kinds of projects and freelancing by myself!
 - 🗓 I'm looking to collaborate on OpenSource Projects/Hackathons/Competitions/...
-- 👨🏻‍💻 I'm currently learning [Swift](https://www.swift.org/about/), [Next.js](https://nextjs.org), and [Golang](https://go.dev/) \[I'm also interested in security...🤫\]
+- 👨🏻‍💻 I'm currently learning [Swift](https://www.swift.org/about/), [Svelte](https://svelte.dev/), [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html)(sooo intersting!),  [Next.js](https://nextjs.org), and [Golang](https://go.dev/) \[I'm also interested in security...🤫\]
 - ⚡️ Fun fact: I love to play the piano🎹 and I have a corgi🐾
 
 ## 🚀 Current Languages and Tools
 
-Next.js, TypeScript, Swift, Golang, Express, Python, C++, Java, Mathematica, and more!
+Svelte, Kotlin, Next.js, TypeScript, Swift, Golang, Express, Python, C++, Java, Mathematica, and more!
 
 ## ⛳️ Some of my OpenSource Cotributions
 
