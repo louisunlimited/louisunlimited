@@ -1,7 +1,8 @@
 ## Hi there 👋 I'm Louis
 
 A little about me: I'm currently a senior studying Computer Science @ University of Illinois at Urbana-Champaign.
-I'm still exploring the world of Computer Science and am open to any projects to work on it together!
+I'm open to any projects to work on it together! 
+🤙 Hit me up if you are building fun stuff!
 
 - 💻 I'm currentlly working on all kinds of projects and freelancing by myself!
 - 🗓 I'm looking to collaborate on OpenSource Projects/Hackathons/Competitions/...
