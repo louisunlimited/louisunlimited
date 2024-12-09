@@ -18,7 +18,7 @@ Svelte, Kotlin, Next.js, TypeScript, Swift, Golang, Express, Python, C++, Java, 
 
 - **PrairieLearn**: PLFileEditor Settings & Theme Change. [Issue](https://github.com/PrairieLearn/PrairieLearn/issues/6460), [Pull Request](https://github.com/PrairieLearn/PrairieLearn/pull/6476)
 - **Apple**/swift-org-website: CEW and PSG addition. [Issue](https://github.com/apple/swift-org-website/issues/638), [Pull Request](https://github.com/apple/swift-org-website/pull/642)
-
+- **Apple**/sourcekit-lsp: Remove document manager in SwiftLanguageService. [Issue](https://github.com/swiftlang/sourcekit-lsp/issues/1423), [Pull Request](https://github.com/swiftlang/sourcekit-lsp/pull/1466)
 
 <!-- ![Louis' GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=louisunlimited&show_icons=true&hide=stars&custom_title=Louis'%20github%20stats) -->
 
