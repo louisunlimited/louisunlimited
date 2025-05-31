@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Louis
 
-A little about me: I'm currently a senior studying Computer Science @ University of Illinois at Urbana-Champaign.
+A little about me: I just graduated from Computer Science @ University of Illinois at Urbana-Champaign.
 I'm open to any projects to work on it together! 
 🤙 Hit me up if you are building fun stuff!
 
