@@ -4,7 +4,7 @@ A little about me: I just graduated from Computer Science @ University of Illino
 I'm open to any projects to work on it together! 
 🤙 Hit me up if you are building fun stuff!
 
-- 💻 I'm currentlly working on all kinds of projects and freelancing by myself!
+- 💻 I'm always working on all kinds of projects and freelancing by myself!
 - 🗓 I'm looking to collaborate on OpenSource Projects/Hackathons/Competitions/...
 - 👨🏻‍💻 I'm currently learning [Swift](https://www.swift.org/about/), [Svelte](https://svelte.dev/), [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html)(sooo intersting!),  [Rust](https://www.rust-lang.org/), and [Golang](https://go.dev/) \[I'm also interested in security...🤫\]
 - ⚡️ Fun fact: I love to play the piano🎹 and I have a corgi🐾
