@@ -19,7 +19,7 @@ Svelte, Kotlin, Next.js, TypeScript, Swift, Golang, Express, Python, C++, Java, 
 - **PrairieLearn**: PLFileEditor Settings & Theme Change. [Issue](https://github.com/PrairieLearn/PrairieLearn/issues/6460), [Pull Request](https://github.com/PrairieLearn/PrairieLearn/pull/6476)
 - **swiftlang**/swift-org-website: CEW and PSG addition. [Issue](https://github.com/apple/swift-org-website/issues/638), [Pull Request](https://github.com/apple/swift-org-website/pull/642)
 - **swiftlang**/sourcekit-lsp: Remove document manager in SwiftLanguageService. [Issue](https://github.com/swiftlang/sourcekit-lsp/issues/1423), [Pull Request](https://github.com/swiftlang/sourcekit-lsp/pull/1466)
-- **swiftlang**/swiftly: [Link](https://github.com/swiftlang/swiftly)
+- **swiftlang**/swiftly: [Link]([https://github.com/swiftlang/swiftly](https://github.com/search?q=repo:swiftlang/swiftly+author:louisunlimited+is:pr&type=pullrequests))
 - **swiftlang**/vscode-swift: Selecting Swift Version for runSwiftScript command [Issue](https://github.com/swiftlang/vscode-swift/issues/1427), [Pull Request](https://github.com/swiftlang/vscode-swift/pull/1476)
 
 <!-- ![Louis' GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=louisunlimited&show_icons=true&hide=stars&custom_title=Louis'%20github%20stats) -->
