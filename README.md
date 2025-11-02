@@ -21,6 +21,7 @@ Svelte, Kotlin, Next.js, TypeScript, Swift, Golang, Express, Python, C++, Java, 
 - **swiftlang**/sourcekit-lsp: Remove document manager in SwiftLanguageService. [Issue](https://github.com/swiftlang/sourcekit-lsp/issues/1423), [Pull Request](https://github.com/swiftlang/sourcekit-lsp/pull/1466)
 - **swiftlang**/swiftly: [Link](https://github.com/search?q=repo:swiftlang/swiftly+author:louisunlimited+is:pr&type=pullrequests)
 - **swiftlang**/vscode-swift: Selecting Swift Version for runSwiftScript command [Issue](https://github.com/swiftlang/vscode-swift/issues/1427), [Pull Request](https://github.com/swiftlang/vscode-swift/pull/1476)
+- **microsoft**/vscode: [Link](https://github.com/microsoft/vscode/pulls?q=is:pr+author:louisunlimited)
 
 <!-- ![Louis' GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=louisunlimited&show_icons=true&hide=stars&custom_title=Louis'%20github%20stats) -->
 
